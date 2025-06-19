@@ -24,6 +24,7 @@ GraderLite/
 
 ```bash
 python build.py
+```
 
 ## 💡 Sample Output:
 
