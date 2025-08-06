@@ -28,12 +28,12 @@ python build.py
 
 ## 💡 Sample Output:
 
-Enter your name: Vortexu
-Enter your total marks:- 100
-Enter your received marks:- 78
-Your percentage is: 78.00%
-Grade Letter: B
-Practice more, You can do it bro ❤️🌻
+- Enter your name: Vortexu
+- Enter your total marks:- 100
+- Enter your received marks:- 78
+- Your percentage is: 78.00%
+- Grade Letter: B
+- Practice more, You can do it bro ❤️🌻
 
 ## 🛠️ Ideas for v2.0
 
