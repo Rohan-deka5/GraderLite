@@ -13,9 +13,9 @@
 ## 📂 File Structure
 
 GraderLite/
-├── build.py # Main runner
-├── grade_logic.py # Grade logic and messages
-├── user_percentage.py # User input + percentage calculator
+-├── build.py # Main runner
+-├── grade_logic.py # Grade logic and messages
+-├── user_percentage.py # User input + percentage calculator
 
 
 ## 🚀 Usage
